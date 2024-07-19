@@ -1,0 +1,1 @@
+This project involves the analysis and visualization of data related to stars. Using Python libraries such as Matplotlib, Pandas, and Seaborn, this project aims to uncover insights and trends in stellar data.
